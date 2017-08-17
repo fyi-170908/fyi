@@ -1,0 +1,399 @@
+@charset "utf-8";
+
+/* common */
+
+body {
+  font-size: 14px;
+  font-family: Verdana, sans-serif;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+.image {
+  width: 100%;
+}
+
+/*p {
+  line-height: 2;
+}
+
+.btn {
+  display: inline-block;
+  width: 290px;
+  line-height: 45px;
+  background: yellow;
+  text-align: center;
+  color: #f39800;
+  border-radius: 5px;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+*/
+/*img.shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}*/
+
+/*section {*/
+  /*padding: 90px 0;*/
+/*}*/
+
+/*section:nth-child(odd) {
+  background: #f8f8f8;
+}*/
+/*
+section .container {
+  width: 820px;
+  margin: 0 auto;
+}*/
+
+/*section h2 {
+  font-size: 26px;
+  text-align: center;
+  margin: 0 0 90px;
+  font-weight: normal;
+}*/
+
+/*section:not(.call-to-action) h2:after {*/
+  /*content: '- title -';*/
+  /*display: block;
+  font-size: 18px;
+  color: #aaa;
+  padding-top: 10px;
+}*/
+
+/* header */
+
+/*header {*/
+  /*background: url('../img3/1.jpg');*/
+  /*background-size: contain;*/
+/*}*/
+
+/*header .container {
+  width: 820px;
+  margin: 0 auto;
+  height: 800px;
+  padding-top: 10px;
+  position: relative;
+  overflow: hidden;
+}
+*/
+/*header h1, header p {
+  color: #fff;
+  text-align: center;
+  font-size: 100px
+}
+
+header p {
+  padding-top: 50px;
+}
+
+header h1 {
+  font-size: 34px;
+  margin-bottom: 50px;
+}*/
+
+/*header h2 {
+  margin-top: 50px;
+  font-size: 34px;
+  margin-bottom: 50px;
+  color: yellow;*/
+/*}
+
+header img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}*/
+
+/* message */
+
+/*.message {
+  height: 250px;
+}*/
+
+/*.message2 {*/
+  /*background: url('../img3/2.jpg');
+  background-size: cover;*/
+  /* width: 820px;*/
+  /*height: 800px;*/
+  /*text-align: center;*/
+  /*padding-top: 50px;*/
+  /*padding-left: 80px;*/
+  /*color: white;
+  font-size: 15px;
+}
+
+.message2-section p {
+  font-size: 20px
+}*/
+
+/* features */
+
+/*.features h2:after {
+  content: '- こんな方にオススメ -';
+}
+
+.features .desc {
+  width: 360px;
+}
+
+.pull-right {
+  float: right;
+  padding-left: 40px;
+}
+
+.pull-left {
+  float: left;
+  padding-right: 40px;
+}
+
+.row {
+  overflow: hidden;
+  margin-bottom: 90px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+.features h3 {
+  font-size: 24px;
+}*/
+
+/* voices */
+/*
+.voices h2:after {
+  content: '- こんな方にオススメ -';
+}
+
+.user img {
+  border-radius: 50%;
+  border: 5px solid #fff;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: -60px;
+}*/
+
+/*.user {
+  background: #fff;
+  width: 260px;
+  box-sizing: border-box;
+  padding: 65px 40px 26px;
+  position: relative;
+}*/
+
+/*.user h3 {
+  text-align: center;
+}*/
+
+/*.voices > .container {
+  display: flex;
+  justify-content: space-between;
+}*/
+
+/*.voices h2 {
+  margin-bottom: 150px;
+}*/
+
+
+/* speakers */
+
+/*.speakers {*/
+  /*background: url('../img3/4.jpg');
+  background-size: cover;
+  height: auto;
+  width: 100%;*/
+/*}*/
+
+img {
+    /*width: 100%;*/
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*.speakers h2:after {
+  content: '- 登壇者プロフィール -';
+}*/
+
+/*.speakers .desc {
+  width: 360px;
+}
+
+.pull-right {
+  float: right;
+  padding-left: 80px;
+}
+
+.pull-left {
+  float: left;
+  padding-right: 40px;
+}
+
+.row {
+  overflow: hidden;
+  margin-bottom: 90px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+.speakers h3 {
+  font-size: 24px;
+}*/
+
+
+/* detail */
+/*
+.detail h2:after {
+  content: '- イベント概要 -';
+}*/
+
+
+/* call-to-action */
+
+/*.call-to-action {
+  margin-top: -3px;*/
+  /*background: url('../img/bg.png');*/
+  /*background-size: cover;
+  text-align: center;
+  height: 300px;
+}*/
+
+/*.call-to-action h2 {
+  color: #fff;*/
+  /*margin-bottom: 50px;*/
+  /*margin-bottom: -50px;*/
+/*}*/
+
+/*.call-to-action a {
+  margin-top: 100px;
+}*/
+
+@font-face {
+  font-family: 'LogoTypeGothic';
+  src: url('../LogoTypeGothic');
+}
+
+.about-fyi h2{
+  font-size: 37px;
+  padding-left: 60px;
+  font-family: 'YuMincho';
+  font-family: 'Klee';
+}
+
+.about-fyi p{
+  font-size: 28px;
+  /*font-weight: lighter;*/
+  padding-left: 60px;
+  /*font-family: 'inherit';*/
+  font-family: 'YuMincho';
+  font-family: 'Klee';
+}
+
+.about-fyi{
+  color: white;
+  background-color: rgb(5, 9, 36);
+  padding: 40px;
+  margin-top: -10px;
+}
+
+.about-fyi a{
+  color: rgb(255, 204, 0);
+}
+
+.about-fyi a:hover{
+  color: rgb(255, 248, 82);
+}
+
+.footer p{
+  color: rgb(5, 9, 36);
+  text-align: center;
+  padding: 60px;
+}
+
+
+/*.relative {
+  position: relative;*/
+  /*float: right;*/
+  /*background-color: rgba(255, 255, 255, 0.3);*/
+  /* transitionを指定してください */
+  /*display: block;
+}*/
+/*.absolute {
+    position: fixed;
+    position: absolute;
+    right: 20px;
+    bottom: 5px;
+}
+*/
+/*.relative:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #0dc0c0;
+  transition: color .3s;¥
+}*/
+
+.relative img {
+  /*position: absolute;
+  width: 100%;
+  height: 100%;*/
+}
+
+.relative {
+top: 545px;
+right: 55px;
+z-index: 1;
+position: fixed;
+height: 0;
+padding-bottom: 56.25%;
+}
+
+.fyi {
+  /*font-family: 'arial unicode ms';*/
+}
+
+.test {
+  position: relative;
+}
+
+.test p {
+  position: absolute;
+  top: 498px;
+  left: 540px;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.test a {
+  color: white;
+  /*color: #FFFC67;*/
+ /*text-decoration: none;*/
+}
+
+.test a:hover{
+  color: white;
+  color: #FFCC00;
+}
+
+
+
+/* footer */
+
+footer {
+  padding: 90px 0;
+  text-align: center;
+  color: #ccc;
+}
+
